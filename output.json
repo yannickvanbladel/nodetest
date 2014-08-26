@@ -1,0 +1,16 @@
+{
+    "houses": [
+        {
+            "title": "Dr Ahaushof 83",
+            "price": "929,72"
+        },
+        {
+            "title": "Erasplaats 66",
+            "price": "831,86"
+        },
+        {
+            "title": "Koestraat 192",
+            "price": "801,97"
+        }
+    ]
+}
